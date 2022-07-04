@@ -1,0 +1,44 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+h1{
+    font-size: 70px;
+    line-height: 80px;
+    font-weight: 900;
+}
+.color-text span{
+    
+  color: #FBA24F;
+}
+
+p{
+
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 32px
+}
+
+.flexbox{
+    display: flex;
+    padding-left: 150px;
+    padding-right: 150px;
+}
+.half-width {
+    width: 50%;
+
+}
+
+.text-align{
+    margin-top: 300px;
+}
+
+button{
+    padding: 22.5px 43px;
+    border-radius: 33px;
+    background-color: #FD6036;
+    border: 0px;
+    color: white;
+    font-size: 18px;
+    line-height: 23.5px;
+    margin-top: 71.5px;
+}
