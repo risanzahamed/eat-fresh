@@ -5,6 +5,7 @@ h1{
     font-size: 70px;
     line-height: 80px;
     font-weight: 900;
+   
 }
 .color-text span{
     
@@ -40,5 +41,6 @@ button{
     color: white;
     font-size: 18px;
     line-height: 23.5px;
-    margin-top: 71.5px;
+    margin-top: 49px;
+    box-shadow: 5px 7px 40px #FC8F49 ;
 }
